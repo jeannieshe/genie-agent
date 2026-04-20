@@ -1,0 +1,6 @@
+anthropic
+python-telegram-bot
+python-dotenv
+httpx
+trafilatura
+youtube-transcript-api
